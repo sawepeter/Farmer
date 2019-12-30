@@ -1,7 +1,7 @@
 {
   "orders": [
     { "id": 1, "customername": "Hilton", "product": "Spinanch", "quantity": "10 Kgs", "status": "Pending" },
-    { "id": 2, "customername": "FiarView Hotel", "product": "Cabbage", "quantity": "12 kgs", "status": "Pending" },
+    { "id": 2, "customername": "FairView Hotel", "product": "Cabbage", "quantity": "12 kgs", "status": "Pending" },
     { "id": 3, "customername": "Villa Rossa", "product": "Broccoli", "quantity": "20 kgs", "status": "Pending" },
     { "id": 4, "customername": "Acacia Tree Lodge ", "product": "Carrots", "quantity": "15 kgs", "status": "Pending" },	
     { "id": 5, "customername": "Sarova Stanley ", "product": "Onions", "quantity": "8 kgs", "status": "Pending" },
