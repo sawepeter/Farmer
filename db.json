@@ -13,6 +13,20 @@
     { "id": 11, "customername": "Kulan Cafe ", "product": "Peas", "quantity": "9 kgs", "status": "Pending" }, 
     { "id": 12, "customername": "Hero Restaurant ", "product": "Green Bean", "quantity": "15 kgs", "status": "Pending" }     
   ],
+  "payments": [
+    { "id": 1, "customername": "Hilton", "time": "12:00pm", "Amount": "1000"},
+    { "id": 2, "customername": "FairView Hotel", "time": "6:00pm", "Amount": "800" },
+    { "id": 3, "customername": "Villa Rossa", "time": "5:00pm", "Amount": "900" },
+    { "id": 4, "customername": "Acacia Tree Lodge ", "time": "11:00pm", "Amount": "1000"},	
+    { "id": 5, "customername": "Sarova Stanley ", "time": "6:00am", "Amount": "200" },
+    { "id": 6, "customername": "The Clarion Hotel ", "time": "8:00pm", "Amount": "2000" }, 
+    { "id": 7, "customername": "The Emory Hotel ", "time": "3:00pm", "Amount": "800" }, 
+    { "id": 8, "customername": "Movenpick Hotel ", "time": "6:00pm", "Amount": "5000" }, 
+    { "id": 9, "customername": "Nairobi Serena ", "time": "7:00pm", "Amount": "3000" }, 
+    { "id": 10, "customername": "CJ's ", "time": "8:00am", "Amount": "500" }, 
+    { "id": 11, "customername": "Kulan Cafe ", "time": "1:00pm", "Amount": "200" }, 
+    { "id": 12, "customername": "Hero Restaurant ", "time": "2:00pm", "Amount": "5000" }     
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
