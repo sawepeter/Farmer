@@ -34,42 +34,5 @@
   "profile": {
     "name": "typicode"
   },
-    "officers": [
-    {
-      "userId": "2812",
-      "userPin": "8341",
-      "lastName": "Mdamba",
-      "properties": "0"
-    },
-    {
-      "userId": "1212",
-      "userPin": "1313",
-      "lastName": "Admin",
-      "properties": "1"
-    }
-  ],
-  "serviceData": [
-    {
-      "id": "2",
-      "name": "Meals",
-      "walletId": "70",
-      "properties": "55",
-      "dailySpendingAmountLimit": "10000",
-      "dailySpendingTxCountLimit": "100",
-      "users": [
-        "2812"
-      ]
-    },
-    {
-      "id": "3",
-      "name": "Accommodation",
-      "walletId": "69",
-      "properties": "55",
-      "dailySpendingAmountLimit": "1000",
-      "dailySpendingTxCountLimit": "100",
-      "users": [
-        "2812"
-      ]
-    }
-  ],
+  
 }
