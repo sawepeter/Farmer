@@ -1,5 +1,5 @@
 {
-  "orders": [
+  "jobs": [
     { "id": 1, "company": "Dekut", "Logo": "https://www.dkut.ac.ke/images/logo.png", "Job": "Graphic Designer", "salary": "Ksh 50,000","location":"Nyeri,Kenya" },
     { "id": 2, "company": "Nyewasco","Logo": "http://www.nyewasco.co.ke/wp-content/uploads/2019/06/nyewasco-header-logo-title-1.png","Job": "Graphic Designer", "salary": "Ksh 50,000","location":"Nyeri,Kenya" },
     { "id": 3, "company": "Nyeri County", "Logo": "http://www.nyeri.go.ke/wp-content/uploads/2020/08/County001-1.png", "Job": "Graphic Designer", "salary": "Ksh 50,000","location":"Nyeri,Kenya" },
