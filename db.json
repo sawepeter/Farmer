@@ -1,17 +1,17 @@
 {
   "orders": [
-    { "id": 1, "customername": "Hilton", "product": "Spinanch", "quantity": "10 Kgs", "status": "Pending" },
-    { "id": 2, "customername": "FairView Hotel", "product": "Cabbage", "quantity": "12 kgs", "status": "Pending" },
-    { "id": 3, "customername": "Villa Rossa", "product": "Broccoli", "quantity": "20 kgs", "status": "Pending" },
-    { "id": 4, "customername": "Acacia Tree Lodge ", "product": "Carrots", "quantity": "15 kgs", "status": "Pending" },	
-    { "id": 5, "customername": "Sarova Stanley ", "product": "Onions", "quantity": "8 kgs", "status": "Pending" },
-    { "id": 6, "customername": "The Clarion Hotel ", "product": "Tomatoes", "quantity": "25 kgs", "status": "Pending" }, 
-    { "id": 7, "customername": "The Emory Hotel ", "product": "Green Pepper", "quantity": "5 kgs", "status": "Pending" }, 
-    { "id": 8, "customername": "Movenpick Hotel ", "product": "Lettuce", "quantity": "8 kgs", "status": "Pending" }, 
-    { "id": 9, "customername": "Nairobi Serena ", "product": "Pottato", "quantity": "10 kgs", "status": "Pending" }, 
-    { "id": 10, "customername": "CJ's ", "product": "Red Pepper", "quantity": "3 kgs", "status": "Pending" }, 
-    { "id": 11, "customername": "Kulan Cafe ", "product": "Peas", "quantity": "9 kgs", "status": "Pending" }, 
-    { "id": 12, "customername": "Hero Restaurant ", "product": "Green Bean", "quantity": "15 kgs", "status": "Pending" }     
+    { "id": 1, "company": "Dekut", "Logo": "https://www.dkut.ac.ke/images/logo.png", "Job": "Graphic Designer", "salary": "Ksh 50,000","location":"Nyeri,Kenya" },
+    { "id": 2, "company": "Nyewasco","Logo": "http://www.nyewasco.co.ke/wp-content/uploads/2019/06/nyewasco-header-logo-title-1.png","Job": "Graphic Designer", "salary": "Ksh 50,000","location":"Nyeri,Kenya" },
+    { "id": 3, "company": "Nyeri County", "Logo": "http://www.nyeri.go.ke/wp-content/uploads/2020/08/County001-1.png", "Job": "Graphic Designer", "salary": "Ksh 50,000","location":"Nyeri,Kenya" },
+    { "id": 4, "company": "Nyeri Polytechnic", "Logo": "https://thenyeripoly.ac.ke/images/nnp_logo.c37edf102af3526a013d7410b72fda5ee9b3fe29c00194e72a4b5dd2c3ef7d9c.png", "Job": "Mechanics Tutor", "salary": "Ksh 50,000","location":"Nyeri,Kenya" },
+    { "id": 5, "company": "The Green Hills Hotel", "Logo": "http://www.greenhills.co.ke/images/ghhlogo.png", "Job": "Waiter", "salary": "Ksh 50,000","location":"Nyeri,Kenya" },
+    { "id": 6, "company": "Dekutes", "Logo": "https://dekutes.dkut.ac.ke/images/Letter-Head-Dekutes.jpg", "Job": "Graphic Designer", "salary": "Ksh 50,000","location":"Nyeri,Kenya" },
+    { "id": 7, "company": "Dehub", "Logo": "https://dehub.dkut.ac.ke/wp-content/uploads/2019/07/dehublogo.png", "Job": "Graphic Designer", "salary": "Ksh 50,000","location":"Nyeri,Kenya" },
+    { "id": 8, "company": "The White Rhino Hotel", "Logo": "https://www.whiterhinohotel.com/images/footer-logo.png", "Job": "Graphic Designer", "salary": "Ksh 50,000","location":"Nyeri,Kenya" }, 
+    { "id": 9, "company": "The Panari Resort", "Logo": "https://www.panarihotels.com/resort-nyahururu/images/panari-residence-logo.png", "Job": "Graphic Designer", "salary": "Ksh 50,000","location":"Nyahururu,Kenya" },
+    { "id": 10, "company": "Naivas", "Logo": "https://naivas.co.ke/assets/naivas/images/logo.png", "Job": "Cashier", "salary": "Ksh 50,000","location":"Nyeri,Kenya" }, 
+    { "id": 11, "company": "DekutTrends", "Logo": "https://dekutrends.co.ke/wp-content/uploads/2020/09/lgo.jpeg", "Job": "Graphic Designer", "salary": "Ksh 50,000","location":"Nyeri,Kenya" }
+   
   ],
   "payments": [
     { "id": 1, "customername": "Hilton", "time": "12:00pm", "Amount": "1000"},
