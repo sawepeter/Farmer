@@ -13,19 +13,18 @@
     { "id": 11, "company": "DekutTrends", "Logo": "https://dekutrends.co.ke/wp-content/uploads/2020/09/lgo.jpeg", "Job": "Graphic Designer", "salary": "Ksh 50,000","location":"Nyeri,Kenya" }
    
   ],
-  "payments": [
-    { "id": 1, "customername": "Hilton", "time": "12:00pm", "Amount": "1000"},
-    { "id": 2, "customername": "FairView Hotel", "time": "6:00pm", "Amount": "800" },
-    { "id": 3, "customername": "Villa Rossa", "time": "5:00pm", "Amount": "900" },
-    { "id": 4, "customername": "Acacia Tree Lodge ", "time": "11:00pm", "Amount": "1000"},	
-    { "id": 5, "customername": "Sarova Stanley ", "time": "6:00am", "Amount": "200" },
-    { "id": 6, "customername": "The Clarion Hotel ", "time": "8:00pm", "Amount": "2000" }, 
-    { "id": 7, "customername": "The Emory Hotel ", "time": "3:00pm", "Amount": "800" }, 
-    { "id": 8, "customername": "Movenpick Hotel ", "time": "6:00pm", "Amount": "5000" }, 
-    { "id": 9, "customername": "Nairobi Serena ", "time": "7:00pm", "Amount": "3000" }, 
-    { "id": 10, "customername": "CJ's ", "time": "8:00am", "Amount": "500" }, 
-    { "id": 11, "customername": "Kulan Cafe ", "time": "1:00pm", "Amount": "200" }, 
-    { "id": 12, "customername": "Hero Restaurant ", "time": "2:00pm", "Amount": "5000" }     
+  "applications": [
+    { "id": 1, "company": "Dekut", "Logo": "https://afca.coffee/wp-content/uploads/2017/07/DedanKimathi-logo.jpg", "Job": "Graphic Designer", "salary": "Ksh 50,000","status":"Delivered" },
+    { "id": 2, "company": "Nyewasco","Logo": "https://www.nyewasco.co.ke/wp-content/uploads/2016/11/cropped-header-logo-PNG-300x300.png","Job": "Graphic Designer", "salary": "Ksh 50,000","status":"Opened" },
+    { "id": 3, "company": "Nyeri County", "Logo": "http://www.nyeri.go.ke/wp-content/uploads/2020/08/County001-1.png", "Job": "Graphic Designer", "salary": "Ksh 50,000","status":"Cancelled" },
+    { "id": 4, "company": "Nyeri Polytechnic", "Logo": "https://thenyeripoly.ac.ke/images/nnp_logo.c37edf102af3526a013d7410b72fda5ee9b3fe29c00194e72a4b5dd2c3ef7d9c.png", "Job": "Mechanics Tutor", "salary": "Ksh 50,000","status":"Delivered" },
+    { "id": 5, "company": "The Green Hills Hotel", "Logo": "http://www.greenhills.co.ke/images/ghhlogo.png", "Job": "Waiter", "salary": "Ksh 50,000","status":"Cancelled" },
+    { "id": 6, "company": "Dekutes", "Logo": "https://dekutes.dkut.ac.ke/images/Letter-Head-Dekutes.jpg", "Job": "Graphic Designer", "salary": "Ksh 50,000","status":"Opened" },
+    { "id": 7, "company": "Dehub", "Logo": "https://dehub.dkut.ac.ke/wp-content/uploads/2019/07/dehublogo.png", "Job": "Graphic Designer", "salary": "Ksh 50,000","status":"Cancelled" },
+    { "id": 8, "company": "The White Rhino Hotel", "Logo": "https://www.whiterhinohotel.com/images/footer-logo.png", "Job": "Graphic Designer", "salary": "Ksh 50,000","status":"Delivered" }, 
+    { "id": 9, "company": "The Panari Resort", "Logo": "https://www.panarihotels.com/resort-nyahururu/images/panari-residence-logo.png", "Job": "Graphic Designer", "salary": "Ksh 50,000","status":"Delivered" },
+    { "id": 10, "company": "Naivas", "Logo": "https://naigate.com/wp-content/uploads/2019/07/naivas-1-1170x400.jpg", "Job": "Cashier", "salary": "Ksh 50,000","status":"Cancelled" }, 
+    { "id": 11, "company": "DekutTrends", "Logo": "https://dekutrends.co.ke/wp-content/uploads/2020/09/lgo.jpeg", "Job": "Graphic Designer", "salary": "Ksh 50,000","status":"Opened" }    
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
