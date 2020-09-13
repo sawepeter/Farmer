@@ -1,7 +1,7 @@
 {
   "jobs": [
-    { "id": 1, "company": "Dekut", "Logo": "https://www.dkut.ac.ke/images/logo.png", "Job": "Graphic Designer", "salary": "Ksh 50,000","location":"Nyeri,Kenya" },
-    { "id": 2, "company": "Nyewasco","Logo": "http://www.nyewasco.co.ke/wp-content/uploads/2019/06/nyewasco-header-logo-title-1.png","Job": "Graphic Designer", "salary": "Ksh 50,000","location":"Nyeri,Kenya" },
+    { "id": 1, "company": "Dekut", "Logo": "https://afca.coffee/wp-content/uploads/2017/07/DedanKimathi-logo.jpg", "Job": "Graphic Designer", "salary": "Ksh 50,000","location":"Nyeri,Kenya" },
+    { "id": 2, "company": "Nyewasco","Logo": "https://www.nyewasco.co.ke/wp-content/uploads/2016/11/cropped-header-logo-PNG-300x300.png","Job": "Graphic Designer", "salary": "Ksh 50,000","location":"Nyeri,Kenya" },
     { "id": 3, "company": "Nyeri County", "Logo": "http://www.nyeri.go.ke/wp-content/uploads/2020/08/County001-1.png", "Job": "Graphic Designer", "salary": "Ksh 50,000","location":"Nyeri,Kenya" },
     { "id": 4, "company": "Nyeri Polytechnic", "Logo": "https://thenyeripoly.ac.ke/images/nnp_logo.c37edf102af3526a013d7410b72fda5ee9b3fe29c00194e72a4b5dd2c3ef7d9c.png", "Job": "Mechanics Tutor", "salary": "Ksh 50,000","location":"Nyeri,Kenya" },
     { "id": 5, "company": "The Green Hills Hotel", "Logo": "http://www.greenhills.co.ke/images/ghhlogo.png", "Job": "Waiter", "salary": "Ksh 50,000","location":"Nyeri,Kenya" },
@@ -9,7 +9,7 @@
     { "id": 7, "company": "Dehub", "Logo": "https://dehub.dkut.ac.ke/wp-content/uploads/2019/07/dehublogo.png", "Job": "Graphic Designer", "salary": "Ksh 50,000","location":"Nyeri,Kenya" },
     { "id": 8, "company": "The White Rhino Hotel", "Logo": "https://www.whiterhinohotel.com/images/footer-logo.png", "Job": "Graphic Designer", "salary": "Ksh 50,000","location":"Nyeri,Kenya" }, 
     { "id": 9, "company": "The Panari Resort", "Logo": "https://www.panarihotels.com/resort-nyahururu/images/panari-residence-logo.png", "Job": "Graphic Designer", "salary": "Ksh 50,000","location":"Nyahururu,Kenya" },
-    { "id": 10, "company": "Naivas", "Logo": "https://naivas.co.ke/assets/naivas/images/logo.png", "Job": "Cashier", "salary": "Ksh 50,000","location":"Nyeri,Kenya" }, 
+    { "id": 10, "company": "Naivas", "Logo": "https://naigate.com/wp-content/uploads/2019/07/naivas-1-1170x400.jpg", "Job": "Cashier", "salary": "Ksh 50,000","location":"Nyeri,Kenya" }, 
     { "id": 11, "company": "DekutTrends", "Logo": "https://dekutrends.co.ke/wp-content/uploads/2020/09/lgo.jpeg", "Job": "Graphic Designer", "salary": "Ksh 50,000","location":"Nyeri,Kenya" }
    
   ],
